@@ -10,7 +10,7 @@ Remove a previously added person from the list
 Display the household list in the HTML as it is modified
 Serialize the household as JSON upon form submission as a fake trip to the server
 
-##Notes
+## Notes
 
 Do not modify the given index.html file in any way. You're of course still allowed to modify the DOM through Javascript.
 
