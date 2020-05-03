@@ -11,4 +11,4 @@ Display the household list in the HTML as it is modified
 Serialize the household as JSON upon form submission as a fake trip to the server
 
 ## Installation
-Get the repository and  open index.html file on any web browser
+Download the repository and open index.html file on any web browser
